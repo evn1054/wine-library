@@ -1,0 +1,15 @@
+.search__panel {
+  width: 100%;
+}
+.wines__panel {
+  padding: 25px 0;
+
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  flex-wrap: wrap;
+  height: auto;
+}
+.list {
+  list-style: none;
+}
